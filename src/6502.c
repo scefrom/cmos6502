@@ -1,3 +1,14 @@
+/*
+	This file is part of the CMOS6502 project.
+
+	BSD 3-Clause License
+
+	Copyright (c) 2023, Pietro Senesi
+	All rights reserved.
+*/
+
+
+
 #include "6502.h"
 
 
