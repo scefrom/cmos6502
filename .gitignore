@@ -1,2 +1,4 @@
 src/*.o
 tests/
+
+c6502
