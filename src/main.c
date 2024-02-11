@@ -15,8 +15,8 @@
 
 static uint8_t ram[RAM_SIZE];
 
-uint8_t _6502_read(uint16_t a) {return ram[a];}
-void _6502_write(uint16_t a, uint8_t x) {ram[a] = x;}
+inline uint8_t _6502_read(uint16_t a) {return ram[a];}
+inline void _6502_write(uint16_t a, uint8_t x) {ram[a] = x;}
 
 
 

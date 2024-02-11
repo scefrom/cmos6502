@@ -1,6 +1,6 @@
 # CMOS6502
 
-CMOS6502 is a lightweight efficient MOS 6502 emulator written in C by the 15 yo me. (expect some C newbie stuff).
+CMOS6502 is a lightweight efficient MOS 6502 emulator written in C by the 15 yo me.
 
 It isn't cycles-accurate, and only has a clock() function which executes a single instruction.
 

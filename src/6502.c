@@ -3,7 +3,7 @@
 
 	BSD 3-Clause License
 
-	Copyright (c) 2023, Pietro Senesi
+	Copyright (c) 2024, Pietro Senesi
 	All rights reserved.
 */
 
